@@ -1,4 +1,4 @@
-# Use a imagem oficial do n8n
+# Dockerfile (na raiz)
 FROM n8nio/n8n:latest
-# Se quiser travar versão em vez de latest:
+# Se preferir travar a versão:
 # FROM n8nio/n8n:1.76.0
